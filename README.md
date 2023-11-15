@@ -1,4 +1,4 @@
-# chupa-actividad
+# Hurtado actividad
 --contador de palabras
 #Este ejercicio cuanta la cantidad de palabras en una oración 
 #y te dice cuantas empiezan por una determinada letra
